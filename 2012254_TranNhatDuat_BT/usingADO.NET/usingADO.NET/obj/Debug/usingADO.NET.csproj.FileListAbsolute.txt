@@ -1,0 +1,10 @@
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\bin\Debug\usingADO.NET.exe.config
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\bin\Debug\usingADO.NET.exe
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\bin\Debug\usingADO.NET.pdb
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\obj\Debug\usingADO.NET.csproj.AssemblyReference.cache
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\obj\Debug\usingADO.NET.frmQLSV.resources
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\obj\Debug\usingADO.NET.Properties.Resources.resources
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\obj\Debug\usingADO.NET.csproj.GenerateResource.cache
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\obj\Debug\usingADO.NET.csproj.CoreCompileInputs.cache
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\obj\Debug\usingADO.NET.exe
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\usingADO.NET\obj\Debug\usingADO.NET.pdb

@@ -1,0 +1,9 @@
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\UsingEntityFrameWork_DB_First\obj\Debug\UsingEntityFrameWork_DB_First.csproj.AssemblyReference.cache
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\UsingEntityFrameWork_DB_First\obj\Debug\UsingEntityFrameWork_DB_First.Properties.Resources.resources
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\UsingEntityFrameWork_DB_First\obj\Debug\UsingEntityFrameWork_DB_First.csproj.GenerateResource.cache
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\UsingEntityFrameWork_DB_First\obj\Debug\UsingEntityFrameWork_DB_First.csproj.CoreCompileInputs.cache
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\UsingEntityFrameWork_DB_First\bin\Debug\UsingEntityFrameWork_DB_First.exe.config
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\UsingEntityFrameWork_DB_First\bin\Debug\UsingEntityFrameWork_DB_First.exe
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\UsingEntityFrameWork_DB_First\bin\Debug\UsingEntityFrameWork_DB_First.pdb
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\UsingEntityFrameWork_DB_First\obj\Debug\UsingEntityFrameWork_DB_First.exe
+E:\Second year II\Học kì 2\Phát triển ứng dụng Desktop\LabTraining\usingADO.NET\UsingEntityFrameWork_DB_First\obj\Debug\UsingEntityFrameWork_DB_First.pdb

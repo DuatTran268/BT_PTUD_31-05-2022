@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usingADO.NET", "usingADO.NET\usingADO.NET.csproj", "{6B9AF0B9-67AD-4DE4-BE60-50E009D82AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingEntityFrameWork_DB_First", "UsingEntityFrameWork_DB_First\UsingEntityFrameWork_DB_First.csproj", "{A0F9ABF1-A454-4FD4-A128-6BA3073DB0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B9AF0B9-67AD-4DE4-BE60-50E009D82AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9AF0B9-67AD-4DE4-BE60-50E009D82AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9AF0B9-67AD-4DE4-BE60-50E009D82AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9AF0B9-67AD-4DE4-BE60-50E009D82AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F9ABF1-A454-4FD4-A128-6BA3073DB0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F9ABF1-A454-4FD4-A128-6BA3073DB0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F9ABF1-A454-4FD4-A128-6BA3073DB0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F9ABF1-A454-4FD4-A128-6BA3073DB0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D25B7D6E-31E7-4584-84FD-B74005D2ADB0}
+	EndGlobalSection
+EndGlobal
