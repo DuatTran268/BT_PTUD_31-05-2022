@@ -163,21 +163,23 @@ namespace usingADO.NET
 		private void btnSave_Click(object sender, EventArgs e)
 		{
 			var sinhvien = GetSinhVien();
-			if (sinhvien != null)
-			{
-				MessageBox.Show("Vui lòng nhập đầy đủ thông tin", "Thông báo");
-				return;
-			}
 			var connection = new SqlConnection(ConnectionString);
 			var cmd = connection.CreateCommand();
 			if (sinhvien.ID < 0)
 			{
+				MessageBox.Show("Thêm dữ liệu thành công","Thông báo");
 				cmd.CommandText = "EXEC InsertStudent @HoTen, @Lop";
 			}
-			else
+			else if (sinhvien.ID > 0)
 			{
+				MessageBox.Show("Cập nhật dữ liệu thành công", "Thông báo");
 				// ton tai id roi thi thuc hien update
-				cmd.CommandText = "UPDATE SinhVien SET Ten = @HoTen, MaLop = @Lop WHERE Id = @Id";
+				cmd.CommandText = "UPDATE SinhVien SET HoTen = @HoTen, MaLop = @Lop WHERE Id = @Id";
+			}
+			else if (sinhvien != null)
+			{
+				MessageBox.Show("Vui lòng nhập đầy đủ thông tin", "Thông báo");
+				return;
 			}
 			cmd.Parameters.AddWithValue("@HoTen", sinhvien.HoTen);
 			cmd.Parameters.AddWithValue("@Lop", sinhvien.IdLop);
